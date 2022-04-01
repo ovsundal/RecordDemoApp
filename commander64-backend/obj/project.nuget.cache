@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3RvVm+fLnmPOuUmvcvlwjxJFf2+o0LSy1bbPShEpBmwwABqTyxKH0/Kzkx91vg93jnjp/a/J5rLrN49/fHxhpg==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\commander64\\commander64-backend\\commander64-backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\osund\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\osund\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

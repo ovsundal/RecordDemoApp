@@ -5,5 +5,9 @@
     <RootNamespace>commander64_backend</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Persistence" />
+  </ItemGroup>
+
 
 </Project>
